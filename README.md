@@ -5,7 +5,7 @@
 ### Overview
 
 This project is a part of the **second** year of Epitech. <br>
-We had **2 weeks** to complete it. :spiral_calendar: <br>
+I had **2 weeks** to complete it. :spiral_calendar: <br>
 
 The goal of this project was to discover Jenkins and its configuration files. <br>
 
@@ -24,6 +24,6 @@ An output you can get from this program can be:
 
 ![img.png](assets/jenkins.png)
 
-Here are the different **tools** and **languages** we used to make this project: :hammer_and_wrench:
+Here are the different **tools** and **languages** I used to make this project: :hammer_and_wrench:
 
 [![Main tools](https://skillicons.dev/icons?i=docker,jenkins,vscode,github,md&perline=9)](https://github.com/tandpfun/skill-icons)
